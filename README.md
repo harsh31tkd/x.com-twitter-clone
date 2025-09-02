@@ -54,11 +54,11 @@ This project replicates the modern Twitter UI with focus on **clean design, Tail
   ```
   http://localhost:5173
    ```
-📸 Screenshots
+## 📸 Screenshots
 <img width="1920" height="1080" alt="Screenshot (22)" src="https://github.com/user-attachments/assets/c67a60aa-a52e-43bb-85ec-7793e700a601" />
 <img width="1920" height="1080" alt="Screenshot (21)" src="https://github.com/user-attachments/assets/87be9776-8871-4693-ad99-1b61cfb1be57" />
 
-🙌 Acknowledgements
+## 🙌 Acknowledgements
 
 [Tailwind CSS](https://tailwindcss.com/?utm_source=chatgpt.com)
 
