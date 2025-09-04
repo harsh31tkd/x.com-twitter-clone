@@ -64,4 +64,10 @@ This project replicates the modern Twitter UI with focus on **clean design, Tail
 
 [Vite](https://vite.dev/?utm_source=chatgpt.com)
 
+## 📜 License
+
+This project is licensed under the MIT License – feel free to use and modify it.
+
+Made with ❤️ by [Harsh](https://github.com/harsh31tkd)
+
 Inspired by the design of X.com ([Twitter](https://x.com/home))
