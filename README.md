@@ -25,13 +25,18 @@ This project replicates the modern Twitter UI with focus on **clean design, Tail
 ## 📂 Project Structure
 ```
 📦 x.com-twitter-clone
-┣ 📂 img/ # images & assets
-┣ 📂 src/ # input.css, output.css (Tailwind)
-┣ 📜 index.html # main HTML page
-┣ 📜 tailwind.config.js
-┣ 📜 package.json
-┣ 📜 package-lock.json
-┗ 📜 x.favicon.png
+┣ 📂 img/                  # Folder for images & assets (logos, icons, etc.)
+┣ 📂 src/                  # Tailwind source and compiled CSS
+┃  ┣ 📜 input.css          # Tailwind input file (custom utilities & base styles)
+┃  ┗ 📜 output.css         # Generated Tailwind CSS file
+┣ 📜 index.html            # Main HTML page (Twitter clone UI)
+┣ 📜 tailwind.config.js    # Tailwind CSS configuration file
+┣ 📜 package.json          # Project dependencies & scripts
+┣ 📜 package-lock.json     # Dependency lock file (auto-generated)
+┣ 📜 x.favicon.png         # Favicon (X logo for browser tab)
+┣ 📜 README.md             # Project documentation (features, setup, usage)
+┗ 📜 LICENSE               # License file (e.g., MIT License)
+
 ```
 
 ---
